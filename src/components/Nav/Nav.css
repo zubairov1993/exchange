@@ -2,6 +2,9 @@
   background: #3b621c;
 }
 
+.header-nav ul {
+  margin: 0;
+}
 .header-nav li{
   display: inline-block;
   padding: 15px 25px 15px;
